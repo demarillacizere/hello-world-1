@@ -1,7 +1,6 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - [Demarillac Izere](https://github.com/demarillacizere)
 
 ## Project setup instructions
